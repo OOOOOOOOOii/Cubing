@@ -1,0 +1,6 @@
+{
+  "name": "魔方填色与最短打乱公式生成器",
+  "description": "交互式三阶魔方填色还原与打乱公式生成工具，支持2D展开图填色、3D实时联动、智能状态合法性校验、两阶段最优解法计算及动画演练。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
